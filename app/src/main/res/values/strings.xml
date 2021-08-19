@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Webview App</string>
+    <string name="open_url">Open Entered URL</string>
+    <string name="hint">Enter the website url</string>
+    <string name="open_amazon">Open Amazon Website</string>
+    <string name="error">Oops , something went wrong !!</string>
 </resources>
